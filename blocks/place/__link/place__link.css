@@ -1,0 +1,13 @@
+.place__link {
+  line-height: 22px;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: 'Inter', 'Arial', sans-serif;
+  color: #ffffff;
+}
+
+.place__link:hover {
+  transition-timing-function: ease-in;
+  opacity: 0.8;
+  transition-duration: 0.2s;
+}

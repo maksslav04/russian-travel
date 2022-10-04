@@ -1,0 +1,7 @@
+.header__lang-menu {
+  display: flex;
+  margin: 0;
+  padding-left: 0;
+  gap: 18px;
+  list-style-type: none;
+}
